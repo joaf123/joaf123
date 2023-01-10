@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World! 👋 
+
+#### About me:
+I currently work as a full stack developer in a company creating tools for financial institutions
 
 <!--
 **joaf123/joaf123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
