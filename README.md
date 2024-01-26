@@ -1,4 +1,11 @@
-# Hello World! 👋 
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World 👋!";
+    return 0;
+}
+```
 <!--
 **joaf123/joaf123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
